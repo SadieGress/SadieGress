@@ -1,3 +1,9 @@
 100x wonderchild extraordinaire (she/her)
 
-i'm kind of a wizard....
+interests:
+- 3d art
+- programming
+- writing & design
+- horror
+
+working on Daniel: The Experience
