@@ -6,4 +6,4 @@ interests:
 - writing & design
 - horror
 
-wow!!
+working on DISTRESS
